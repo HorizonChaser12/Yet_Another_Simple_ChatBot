@@ -1,10 +1,14 @@
 # Yet Another Simple ChatBot
 
-> It all starts with you
-> Everything you ever wanted, everything you ever dreamed
-> It starts now, it starts today
-> There is no tomorrow
-> I'm tired of you're fucking excuses
+>It all starts with you
+
+>Everything you ever wanted, everything you ever dreamed
+
+>?It starts now, it starts today
+
+>There is no tomorrow
+
+>I'm tired of you're fucking excuses
 
 Starting the journey with a small ChatBot to get better hands-on with LangChain.
 
