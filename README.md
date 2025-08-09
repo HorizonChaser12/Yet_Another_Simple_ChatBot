@@ -59,12 +59,12 @@ pip freeze > requirements.txt
 
 Create a `.env` file in the project root with:
 
-```
-#Using gemini because it's free of cost.
+```bash
+# Using gemini because it's free of cost.
 GOOGLE_API_KEY=your_api_key_here
-#If you want to use a open source ChatModel
+# If you want to use a open source ChatModel
 HUGGINGFACEHUB_API_TOKEN=your_api_key
-#OPTIONAL
+# OPTIONAL
 OPEN_API_KEY=your_api_key_here
 ```
 
